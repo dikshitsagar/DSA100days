@@ -1,3 +1,7 @@
+"""
+Problem Statement : https://leetcode.com/problems/two-sum/description/
+"""
+
 class Solution:
     def twoSums(self,nums: list[int], target: int) -> list[int]:
         for i in range(len(nums)):
